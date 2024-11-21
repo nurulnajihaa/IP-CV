@@ -1,3 +1,4 @@
+import streamlit as st
 import random
 
 #POP_SIZE: Number of Chromosomes in our list.
